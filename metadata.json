@@ -1,0 +1,5 @@
+{
+  "name": "WP Plugin Forge",
+  "description": "Generate WordPress plugins using AI and push them directly to your GitHub repository.",
+  "requestFramePermissions": []
+}
